@@ -19,6 +19,5 @@
 <body>
 
     <h1 class="my-5">Welcome</h1>
-</div>
 </body>
 </html>
